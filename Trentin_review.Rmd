@@ -1,0 +1,12 @@
+---
+title: "Trentin_review"
+author: "Henrique Uliana Trentin"
+date: "October 17, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#The code is well explained and devilers the expected outputs. I liked Brian's idea of using head command after the creation of each file, to check if it looked as expected. Brian was not able to create his own vizualization.
